@@ -10,6 +10,19 @@ My main interests right now:
 
 ---
 
+### 📊 [Semantic Delta Detector](https://github.com/Ryukanchi/semantic-delta-detector)
+A project focused on detecting when SQL queries look similar on the surface but actually represent **different business meaning**.
+
+The goal is to catch semantic drift before it causes broken metrics, bad reporting, or incorrect decisions.
+
+**Focus areas:**
+- SQL comparison
+- semantic drift
+- business logic mismatch
+- data reliability
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🧠 [Rollback Engine](https://github.com/Ryukanchi/rollback-engine)
@@ -23,19 +36,6 @@ It explores how systems can be built around **history instead of just current st
 - replay + state reconstruction
 - time travel debugging
 - snapshot-based optimization
-
----
-
-### 📊 [Semantic Delta Detector](https://github.com/Ryukanchi/semantic-delta-detector)
-A project focused on detecting when SQL queries look similar on the surface but actually represent **different business meaning**.
-
-The goal is to catch semantic drift before it causes broken metrics, bad reporting, or incorrect decisions.
-
-**Focus areas:**
-- SQL comparison
-- semantic drift
-- business logic mismatch
-- data reliability
 
 ---
 
