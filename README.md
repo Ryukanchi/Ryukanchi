@@ -8,9 +8,8 @@ My main interests right now:
 - systems thinking
 - practical tools with real-world behavior
 
----
-
 ## 🚀 Featured Projects
+---
 
 ### 📊 [Semantic Delta Detector](https://github.com/Ryukanchi/semantic-delta-detector)
 A project focused on detecting when SQL queries look similar on the surface but actually represent **different business meaning**.
