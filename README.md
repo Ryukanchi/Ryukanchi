@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi, I'm Andreas
+## 👋 Hey there
 
 I build developer tools for systems where small technical changes can create large operational consequences.
 
