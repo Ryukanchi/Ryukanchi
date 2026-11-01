@@ -1,10 +1,12 @@
 # Hi, I'm Andy
 
-I'm learning software development through personal projects, with help from AI coding tools. My long-term goal is to work in software development.
+Learning software development through personal projects.
+
+I use AI coding tools to help me build things and learn along the way. My long-term goal is to work in software development.
 
 ## What I'm exploring
 
-I'm interested in small, useful apps, automation, and how backend systems work.
+I'm interested in building small, useful apps and learning how they work.
 
 My projects give me a chance to explore **Swift**, **SwiftUI**, **Node.js**, and **Git**.
 
